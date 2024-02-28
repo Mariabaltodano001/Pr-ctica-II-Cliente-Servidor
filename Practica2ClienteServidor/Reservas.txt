@@ -1,0 +1,9 @@
+Información de la reserva:
+Cédula de usuario: 208580660
+Fecha de comida: 29/02/2024
+Tipo de comida: Cena
+Guarnición 1: Arroz
+Guarnición 2: Frijoles
+Proteína: Carne
+Ensalada: Verde
+
